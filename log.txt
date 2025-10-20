@@ -1,0 +1,532 @@
+Mon Oct 20 13:20:45 2025
+: Backup started.
+Mon Oct 20 13:20:45 2025
+: Copied: /mnt/c/Users/ganes/OneDrive/Dokumen/test1/sample.txt.txt
+Mon Oct 20 13:20:45 2025
+: Backup finished.
+Mon Oct 20 13:30:41 2025
+: Backup started.
+Mon Oct 20 13:30:41 2025
+: Copied: /mnt/c/Users/ganes/OneDrive/Dokumen/test1/sample.txt.txt
+Mon Oct 20 13:30:41 2025
+: Copied: /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t1.txt.txt
+Mon Oct 20 13:30:41 2025
+: Backup finished.
+Mon Oct 20 13:32:25 2025
+: Backup started.
+Mon Oct 20 13:32:25 2025
+: Copied: /mnt/c/Users/ganes/OneDrive/Dokumen/test1/sample.txt.txt
+Mon Oct 20 13:32:25 2025
+: Copied: /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t1.txt.txt
+Mon Oct 20 13:32:25 2025
+: Copied: /mnt/c/Users/ganes/OneDrive/Dokumen/test1/new.txt.txt
+Mon Oct 20 13:32:25 2025
+: Backup finished.
+Mon Oct 20 13:50:09 2025
+: Backup started.
+Mon Oct 20 13:50:09 2025
+: Compressed file: /mnt/c/Users/ganes/OneDrive/Dokumen/test2/new.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/new.txt.txt.gz
+Mon Oct 20 13:50:09 2025
+: Compressed file: /mnt/c/Users/ganes/OneDrive/Dokumen/test2/sample.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/sample.txt.txt.gz
+Mon Oct 20 13:50:09 2025
+: Compressed file: /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t1.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t1.txt.txt.gz
+Mon Oct 20 13:50:09 2025
+: Compressed file: /mnt/c/Users/ganes/OneDrive/Dokumen/test2/verilog.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/verilog.txt.gz
+Mon Oct 20 13:50:09 2025
+: ENCRYPTION_KEY=104CBFEF60AF59FBD246476240F9C9BA23B56C2FA33793E57245093E79461D8C
+Mon Oct 20 13:50:09 2025
+: ENCRYPTION_IV=52EFFEE2C999CDCA5BFF6689D6D03E76
+Mon Oct 20 13:50:09 2025
+: Encrypted file: /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t1.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t1.txt.txt.enc
+Mon Oct 20 13:50:10 2025
+: Copied: /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t1.txt.txt
+Mon Oct 20 13:50:10 2025
+: Encrypted file: /mnt/c/Users/ganes/OneDrive/Dokumen/test2/verilog.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/verilog.txt.enc
+Mon Oct 20 13:50:10 2025
+: Copied: /mnt/c/Users/ganes/OneDrive/Dokumen/test1/verilog.txt
+Mon Oct 20 13:50:10 2025
+: Encrypted file: /mnt/c/Users/ganes/OneDrive/Dokumen/test2/new.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/new.txt.txt.enc
+Mon Oct 20 13:50:10 2025
+: Copied: /mnt/c/Users/ganes/OneDrive/Dokumen/test1/new.txt.txt
+Mon Oct 20 13:50:10 2025
+: Encrypted file: /mnt/c/Users/ganes/OneDrive/Dokumen/test2/sample.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/sample.txt.txt.enc
+Mon Oct 20 13:50:10 2025
+: Copied: /mnt/c/Users/ganes/OneDrive/Dokumen/test1/sample.txt.txt
+Mon Oct 20 13:50:10 2025
+: Backup finished.
+Mon Oct 20 14:08:25 2025
+: Backup started.
+Mon Oct 20 14:08:26 2025
+: ENCRYPTION_KEY=51439C838A28D9DACB28008A24923A9B41EC863D13C04ADB884D44BA6FE1885C
+Mon Oct 20 14:08:26 2025
+: ENCRYPTION_IV=7A655D36B427E2F46D40B8DAA8A67103
+Mon Oct 20 14:08:26 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t1.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t1.txt.txt.gz.enc
+Mon Oct 20 14:08:26 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/verilog.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/verilog.txt.gz.enc
+Mon Oct 20 14:08:26 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/new.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/new.txt.txt.gz.enc
+Mon Oct 20 14:08:26 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/sample.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/sample.txt.txt.gz.enc
+Mon Oct 20 14:08:26 2025
+: Backup finished.
+Mon Oct 20 14:22:06 2025
+: Backup started.
+Mon Oct 20 14:22:06 2025
+: ENCRYPTION_KEY=3D759BF93909CE3E83EBB0712F742E749D31D189A2FABAB446B93855B82BEC38
+Mon Oct 20 14:22:06 2025
+: ENCRYPTION_IV=12BD0E09D2597591B38EF91A28AA0795
+Mon Oct 20 14:22:06 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t1.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t1.txt.txt.gz.enc
+Mon Oct 20 14:22:06 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/verilog.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/verilog.txt.gz.enc
+Mon Oct 20 14:22:06 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/sample.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/sample.txt.txt.gz.enc
+Mon Oct 20 14:22:06 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/new.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/new.txt.txt.gz.enc
+Mon Oct 20 14:22:06 2025
+: Backup finished.
+Mon Oct 20 14:42:00 2025
+: Backup started.
+Mon Oct 20 14:42:00 2025
+: ENCRYPTION_KEY=5E112122F7E00244B6EDBC33CB005A3CE323D4697BCECFF23FCD5C69B3B54A77
+Mon Oct 20 14:42:00 2025
+: ENCRYPTION_IV=A8D5B5DBDF3A7411B9CD80BCBB7B43AB
+Mon Oct 20 14:42:00 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/new.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/new.txt.txt.gz.enc
+Mon Oct 20 14:42:00 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t1.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t1.txt.txt.gz.enc
+Mon Oct 20 14:42:00 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/sample.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/sample.txt.txt.gz.enc
+Mon Oct 20 14:42:00 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/verilog.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/verilog.txt.gz.enc
+Mon Oct 20 14:42:00 2025
+: Backup finished.
+Mon Oct 20 14:43:26 2025
+: Backup started.
+Mon Oct 20 14:43:26 2025
+: ENCRYPTION_KEY=0A44D4F6C6DFD8A8DE13713AE8BEADDFA45C68B2FC57FF435680563F934E8E9A
+Mon Oct 20 14:43:26 2025
+: ENCRYPTION_IV=B2B44500F98070E12F71CDB04394972B
+Mon Oct 20 14:43:26 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/sample.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/sample.txt.txt.gz.enc
+Mon Oct 20 14:43:26 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/verilog.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/verilog.txt.gz.enc
+Mon Oct 20 14:43:27 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t1.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t1.txt.txt.gz.enc
+Mon Oct 20 14:43:27 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/new.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/new.txt.txt.gz.enc
+Mon Oct 20 14:43:27 2025
+: Backup finished.
+Mon Oct 20 14:56:01 2025
+: Backup started.
+Mon Oct 20 14:56:01 2025
+: Starting backup from /mnt/c/Users/ganes/OneDrive/Dokumen/test1 to /mnt/c/Users/ganes/OneDrive/Dokumen/test2
+Mon Oct 20 14:56:01 2025
+: Press Ctrl+C to stop backup process
+Mon Oct 20 14:56:01 2025
+: ENCRYPTION_KEY=E57858D74BE3422AC6CF1F8D5F7B3A3D5FEBD10B347340F3449F9C6BB340C8A6
+Mon Oct 20 14:56:02 2025
+: ENCRYPTION_IV=54DEE2B085AA67280492436E0A4083F9
+Mon Oct 20 14:56:02 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/verilog.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/verilog.txt.gz.enc
+Mon Oct 20 14:56:02 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/sample.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/sample.txt.txt.gz.enc
+Mon Oct 20 14:56:02 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t1.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t1.txt.txt.gz.enc
+Mon Oct 20 14:56:02 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/new.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/new.txt.txt.gz.enc
+Mon Oct 20 14:56:03 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:56:08 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:56:13 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:56:18 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:56:24 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:56:29 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:56:35 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:56:40 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:56:45 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:56:50 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:56:56 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:57:01 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/hello.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/hello.txt.gz.enc
+Mon Oct 20 14:57:01 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:57:07 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:57:12 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:57:17 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:57:22 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/New Text Document.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/New Text Document.txt.gz.enc
+Mon Oct 20 14:57:23 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:57:28 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t2.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t2.txt.txt.gz.enc
+Mon Oct 20 14:57:29 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:57:34 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:57:39 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:57:45 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t2.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t2.txt.txt.gz.enc
+Mon Oct 20 14:57:45 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:57:51 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:57:56 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:58:01 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:58:06 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:58:12 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:58:17 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:58:22 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:58:28 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:58:33 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:58:38 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:58:44 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:58:49 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:58:54 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:59:01 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:59:06 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:59:12 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:59:17 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:59:22 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/New Text Document.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/New Text Document.txt.gz.enc
+Mon Oct 20 14:59:23 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:59:28 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t3.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t3.txt.gz.enc
+Mon Oct 20 14:59:30 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:59:35 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:59:41 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:59:46 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:59:52 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t3.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t3.txt.gz.enc
+Mon Oct 20 14:59:52 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 14:59:58 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:00:03 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:00:08 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:00:14 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:00:19 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:00:25 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:00:30 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:00:35 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:00:41 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:00:46 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:00:51 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:00:57 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:01:02 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:01:08 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:12:23 2025
+: Backup started.
+Mon Oct 20 15:12:23 2025
+: Starting backup from /mnt/c/Users/ganes/OneDrive/Dokumen/test1 to /mnt/c/Users/ganes/OneDrive/Dokumen/test2
+Mon Oct 20 15:12:23 2025
+: Press Ctrl+C to stop backup process
+Mon Oct 20 15:12:23 2025
+: ENCRYPTION_KEY=0DDBA46B2CD7E33EA4CDC356F73F67FD320C3CF752B88989BA49B963356CC14F
+Mon Oct 20 15:12:23 2025
+: ENCRYPTION_IV=9F99E376A342C27677E62165891F3DB2
+Mon Oct 20 15:12:23 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t1.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t1.txt.txt.gz.enc
+Mon Oct 20 15:12:23 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/new.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/new.txt.txt.gz.enc
+Mon Oct 20 15:12:23 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/sample.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/sample.txt.txt.gz.enc
+Mon Oct 20 15:12:23 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/hello.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/hello.txt.gz.enc
+Mon Oct 20 15:12:24 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t2.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t2.txt.txt.gz.enc
+Mon Oct 20 15:12:24 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t3.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t3.txt.gz.enc
+Mon Oct 20 15:12:24 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/verilog.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/verilog.txt.gz.enc
+Mon Oct 20 15:12:24 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:12:29 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:12:34 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:12:40 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/New Text Document.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/New Text Document.txt.gz.enc
+Mon Oct 20 15:12:40 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:12:45 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t4.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t4.txt.gz.enc
+Mon Oct 20 15:12:46 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:12:51 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:12:56 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t4.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t4.txt.gz.enc
+Mon Oct 20 15:12:57 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:13:02 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:13:07 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:13:12 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:13:18 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:13:23 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:13:28 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:13:33 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:13:39 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:13:44 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/New Text Document.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/New Text Document.txt.gz.enc
+Mon Oct 20 15:13:44 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:13:49 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t5.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t5.txt.gz.enc
+Mon Oct 20 15:13:50 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:13:55 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t5.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t5.txt.gz.enc
+Mon Oct 20 15:13:55 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:14:01 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:14:06 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:14:11 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:14:16 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:14:22 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:14:27 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:14:32 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:14:37 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:14:43 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:14:48 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:14:53 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:14:58 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:15:04 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:15:09 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:15:14 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:15:19 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:15:25 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:19:47 2025
+: Backup started.
+Mon Oct 20 15:19:47 2025
+: Starting backup from /mnt/c/Users/ganes/OneDrive/Dokumen/test1 to /mnt/c/Users/ganes/OneDrive/Dokumen/test2
+Mon Oct 20 15:19:47 2025
+: Press Ctrl+C to stop backup process
+Mon Oct 20 15:19:47 2025
+: ENCRYPTION_KEY=48BD5D97120D7BC7D61C3805272535FE8DB604259AF885BFD433CEBA874D562D
+Mon Oct 20 15:19:47 2025
+: ENCRYPTION_IV=5DC403AE548E5A31951C80D1EB125F64
+Mon Oct 20 15:19:47 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t1.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t1.txt.txt.gz.enc
+Mon Oct 20 15:19:47 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/hello.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/hello.txt.gz.enc
+Mon Oct 20 15:19:47 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/new.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/new.txt.txt.gz.enc
+Mon Oct 20 15:19:47 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/sample.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/sample.txt.txt.gz.enc
+Mon Oct 20 15:19:47 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t2.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t2.txt.txt.gz.enc
+Mon Oct 20 15:19:47 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t3.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t3.txt.gz.enc
+Mon Oct 20 15:19:47 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t4.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t4.txt.gz.enc
+Mon Oct 20 15:19:47 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t5.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t5.txt.gz.enc
+Mon Oct 20 15:19:48 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/verilog.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/verilog.txt.gz.enc
+Mon Oct 20 15:19:48 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:19:53 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:19:58 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:20:04 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:20:09 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:20:14 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/New Text Document.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/New Text Document.txt.gz.enc
+Mon Oct 20 15:20:15 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:20:20 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/new2.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/new2.txt.gz.enc
+Mon Oct 20 15:20:20 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:20:25 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:20:30 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:20:36 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:20:41 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:20:46 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/new2.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/new2.txt.gz.enc
+Mon Oct 20 15:20:47 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:20:52 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:20:57 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:21:03 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:21:08 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:21:13 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:21:19 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:21:24 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:21:29 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:21:34 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:21:39 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:21:45 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:21:50 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:21:55 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:22:00 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:22:05 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:22:11 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:25:15 2025
+: Backup started.
+Mon Oct 20 15:25:15 2025
+: Starting backup from /mnt/c/Users/ganes/OneDrive/Dokumen/test1 to /mnt/c/Users/ganes/OneDrive/Dokumen/test2
+Mon Oct 20 15:25:15 2025
+: Press Ctrl+C to stop backup process
+Mon Oct 20 15:25:15 2025
+: ENCRYPTION_KEY=C0336AF31BF3D29ED5792376751873240B69EEFF872FB6617F950CDB3EAEA391
+Mon Oct 20 15:25:15 2025
+: ENCRYPTION_IV=BAB1C6A966BBFCAC640F650FEB7E87EE
+Mon Oct 20 15:25:15 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/new2.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/new2.txt.gz.enc
+Mon Oct 20 15:25:15 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/hello.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/hello.txt.gz.enc
+Mon Oct 20 15:25:15 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/sample.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/sample.txt.txt.gz.enc
+Mon Oct 20 15:25:15 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/new.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/new.txt.txt.gz.enc
+Mon Oct 20 15:25:15 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t1.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t1.txt.txt.gz.enc
+Mon Oct 20 15:25:15 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t3.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t3.txt.gz.enc
+Mon Oct 20 15:25:16 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t2.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t2.txt.txt.gz.enc
+Mon Oct 20 15:25:16 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t4.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t4.txt.gz.enc
+Mon Oct 20 15:25:16 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/t5.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/t5.txt.gz.enc
+Mon Oct 20 15:25:16 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/verilog.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/verilog.txt.gz.enc
+Mon Oct 20 15:25:16 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:25:21 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:25:26 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/New Text Document.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/New Text Document.txt.gz.enc
+Mon Oct 20 15:25:26 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:25:32 2025
+: Backed up (compressed+encrypted): /mnt/c/Users/ganes/OneDrive/Dokumen/test1/new3.txt.txt -> /mnt/c/Users/ganes/OneDrive/Dokumen/test2/new3.txt.txt.gz.enc
+Mon Oct 20 15:25:32 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:25:37 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:25:43 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:25:48 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:25:53 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:25:58 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:26:03 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:26:09 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:26:14 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:26:19 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:26:24 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:26:30 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:26:35 2025
+: No new files to backup. Monitoring for changes...
+Mon Oct 20 15:26:40 2025
+: Backup process stopped by user
+Mon Oct 20 15:26:40 2025
+: Backup finished.
