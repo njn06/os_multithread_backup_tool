@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool
+CMAKE_SOURCE_DIR = /home/ashish/os_multithread_backup_tool
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build
+CMAKE_BINARY_DIR = /home/ashish/os_multithread_backup_tool/build
 
 # Include any dependencies generated for this target.
 include CMakeFiles/AdvancedBackupTool.dir/depend.make
@@ -70,74 +70,74 @@ include CMakeFiles/AdvancedBackupTool.dir/progress.make
 include CMakeFiles/AdvancedBackupTool.dir/flags.make
 
 CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.o: CMakeFiles/AdvancedBackupTool.dir/flags.make
-CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.o: /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/backup.cpp
+CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.o: /home/ashish/os_multithread_backup_tool/src/backup.cpp
 CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.o: CMakeFiles/AdvancedBackupTool.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.o -MF CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.o.d -o CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.o -c /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/backup.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ashish/os_multithread_backup_tool/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.o -MF CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.o.d -o CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.o -c /home/ashish/os_multithread_backup_tool/src/backup.cpp
 
 CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/backup.cpp > CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ashish/os_multithread_backup_tool/src/backup.cpp > CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.i
 
 CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/backup.cpp -o CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ashish/os_multithread_backup_tool/src/backup.cpp -o CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.s
 
 CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.o: CMakeFiles/AdvancedBackupTool.dir/flags.make
-CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.o: /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/compress.cpp
+CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.o: /home/ashish/os_multithread_backup_tool/src/compress.cpp
 CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.o: CMakeFiles/AdvancedBackupTool.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.o -MF CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.o.d -o CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.o -c /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/compress.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ashish/os_multithread_backup_tool/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.o -MF CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.o.d -o CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.o -c /home/ashish/os_multithread_backup_tool/src/compress.cpp
 
 CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/compress.cpp > CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ashish/os_multithread_backup_tool/src/compress.cpp > CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.i
 
 CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/compress.cpp -o CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ashish/os_multithread_backup_tool/src/compress.cpp -o CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.s
 
 CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.o: CMakeFiles/AdvancedBackupTool.dir/flags.make
-CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.o: /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/encrypt.cpp
+CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.o: /home/ashish/os_multithread_backup_tool/src/encrypt.cpp
 CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.o: CMakeFiles/AdvancedBackupTool.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.o -MF CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.o.d -o CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.o -c /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/encrypt.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ashish/os_multithread_backup_tool/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.o -MF CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.o.d -o CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.o -c /home/ashish/os_multithread_backup_tool/src/encrypt.cpp
 
 CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/encrypt.cpp > CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ashish/os_multithread_backup_tool/src/encrypt.cpp > CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.i
 
 CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/encrypt.cpp -o CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ashish/os_multithread_backup_tool/src/encrypt.cpp -o CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.s
 
 CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.o: CMakeFiles/AdvancedBackupTool.dir/flags.make
-CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.o: /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/logger.cpp
+CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.o: /home/ashish/os_multithread_backup_tool/src/logger.cpp
 CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.o: CMakeFiles/AdvancedBackupTool.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.o -MF CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.o.d -o CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.o -c /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/logger.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ashish/os_multithread_backup_tool/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.o -MF CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.o.d -o CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.o -c /home/ashish/os_multithread_backup_tool/src/logger.cpp
 
 CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/logger.cpp > CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ashish/os_multithread_backup_tool/src/logger.cpp > CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.i
 
 CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/logger.cpp -o CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ashish/os_multithread_backup_tool/src/logger.cpp -o CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.s
 
 CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.o: CMakeFiles/AdvancedBackupTool.dir/flags.make
-CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.o: /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/main.cpp
+CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.o: /home/ashish/os_multithread_backup_tool/src/main.cpp
 CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.o: CMakeFiles/AdvancedBackupTool.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.o -MF CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.o.d -o CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.o -c /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/ashish/os_multithread_backup_tool/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.o -MF CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.o.d -o CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.o -c /home/ashish/os_multithread_backup_tool/src/main.cpp
 
 CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/main.cpp > CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/ashish/os_multithread_backup_tool/src/main.cpp > CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.i
 
 CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/main.cpp -o CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/ashish/os_multithread_backup_tool/src/main.cpp -o CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.s
 
 # Object files for target AdvancedBackupTool
 AdvancedBackupTool_OBJECTS = \
@@ -160,7 +160,7 @@ AdvancedBackupTool: /usr/lib/x86_64-linux-gnu/libssl.so
 AdvancedBackupTool: /usr/lib/x86_64-linux-gnu/libcrypto.so
 AdvancedBackupTool: /usr/lib/x86_64-linux-gnu/libz.so
 AdvancedBackupTool: CMakeFiles/AdvancedBackupTool.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable AdvancedBackupTool"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/ashish/os_multithread_backup_tool/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable AdvancedBackupTool"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/AdvancedBackupTool.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -172,6 +172,6 @@ CMakeFiles/AdvancedBackupTool.dir/clean:
 .PHONY : CMakeFiles/AdvancedBackupTool.dir/clean
 
 CMakeFiles/AdvancedBackupTool.dir/depend:
-	cd /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build/CMakeFiles/AdvancedBackupTool.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/ashish/os_multithread_backup_tool/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/ashish/os_multithread_backup_tool /home/ashish/os_multithread_backup_tool /home/ashish/os_multithread_backup_tool/build /home/ashish/os_multithread_backup_tool/build /home/ashish/os_multithread_backup_tool/build/CMakeFiles/AdvancedBackupTool.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/AdvancedBackupTool.dir/depend
 

@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool
+CMAKE_SOURCE_DIR = /home/ashish/os_multithread_backup_tool
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build
+CMAKE_BINARY_DIR = /home/ashish/os_multithread_backup_tool/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -83,14 +83,14 @@ clean: CMakeFiles/AdvancedBackupToolGUI.dir/clean
 CMakeFiles/AdvancedBackupTool.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdvancedBackupTool.dir/build.make CMakeFiles/AdvancedBackupTool.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdvancedBackupTool.dir/build.make CMakeFiles/AdvancedBackupTool.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target AdvancedBackupTool"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/ashish/os_multithread_backup_tool/build/CMakeFiles --progress-num=1,2,3,4,5,6 "Built target AdvancedBackupTool"
 .PHONY : CMakeFiles/AdvancedBackupTool.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/AdvancedBackupTool.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ashish/os_multithread_backup_tool/build/CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/AdvancedBackupTool.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ashish/os_multithread_backup_tool/build/CMakeFiles 0
 .PHONY : CMakeFiles/AdvancedBackupTool.dir/rule
 
 # Convenience name for target.
@@ -109,14 +109,14 @@ CMakeFiles/AdvancedBackupTool.dir/clean:
 CMakeFiles/AdvancedBackupToolGUI.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdvancedBackupToolGUI.dir/build.make CMakeFiles/AdvancedBackupToolGUI.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/AdvancedBackupToolGUI.dir/build.make CMakeFiles/AdvancedBackupToolGUI.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build/CMakeFiles --progress-num=7,8,9,10,11,12 "Built target AdvancedBackupToolGUI"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=/home/ashish/os_multithread_backup_tool/build/CMakeFiles --progress-num=7,8,9,10,11,12 "Built target AdvancedBackupToolGUI"
 .PHONY : CMakeFiles/AdvancedBackupToolGUI.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/AdvancedBackupToolGUI.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ashish/os_multithread_backup_tool/build/CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/AdvancedBackupToolGUI.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/ashish/os_multithread_backup_tool/build/CMakeFiles 0
 .PHONY : CMakeFiles/AdvancedBackupToolGUI.dir/rule
 
 # Convenience name for target.

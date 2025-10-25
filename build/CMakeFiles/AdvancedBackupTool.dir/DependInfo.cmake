@@ -8,11 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/backup.cpp" "CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.o" "gcc" "CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.o.d"
-  "/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/compress.cpp" "CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.o" "gcc" "CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.o.d"
-  "/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/encrypt.cpp" "CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.o" "gcc" "CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.o.d"
-  "/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/logger.cpp" "CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.o" "gcc" "CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.o.d"
-  "/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/main.cpp" "CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.o" "gcc" "CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.o.d"
+  "/home/ashish/os_multithread_backup_tool/src/backup.cpp" "CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.o" "gcc" "CMakeFiles/AdvancedBackupTool.dir/src/backup.cpp.o.d"
+  "/home/ashish/os_multithread_backup_tool/src/compress.cpp" "CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.o" "gcc" "CMakeFiles/AdvancedBackupTool.dir/src/compress.cpp.o.d"
+  "/home/ashish/os_multithread_backup_tool/src/encrypt.cpp" "CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.o" "gcc" "CMakeFiles/AdvancedBackupTool.dir/src/encrypt.cpp.o.d"
+  "/home/ashish/os_multithread_backup_tool/src/logger.cpp" "CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.o" "gcc" "CMakeFiles/AdvancedBackupTool.dir/src/logger.cpp.o.d"
+  "/home/ashish/os_multithread_backup_tool/src/main.cpp" "CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.o" "gcc" "CMakeFiles/AdvancedBackupTool.dir/src/main.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

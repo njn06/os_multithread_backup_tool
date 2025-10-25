@@ -8,11 +8,11 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/backup.cpp" "CMakeFiles/AdvancedBackupToolGUI.dir/src/backup.cpp.o" "gcc" "CMakeFiles/AdvancedBackupToolGUI.dir/src/backup.cpp.o.d"
-  "/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/compress.cpp" "CMakeFiles/AdvancedBackupToolGUI.dir/src/compress.cpp.o" "gcc" "CMakeFiles/AdvancedBackupToolGUI.dir/src/compress.cpp.o.d"
-  "/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/encrypt.cpp" "CMakeFiles/AdvancedBackupToolGUI.dir/src/encrypt.cpp.o" "gcc" "CMakeFiles/AdvancedBackupToolGUI.dir/src/encrypt.cpp.o.d"
-  "/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/gui.cpp" "CMakeFiles/AdvancedBackupToolGUI.dir/src/gui.cpp.o" "gcc" "CMakeFiles/AdvancedBackupToolGUI.dir/src/gui.cpp.o.d"
-  "/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/src/logger.cpp" "CMakeFiles/AdvancedBackupToolGUI.dir/src/logger.cpp.o" "gcc" "CMakeFiles/AdvancedBackupToolGUI.dir/src/logger.cpp.o.d"
+  "/home/ashish/os_multithread_backup_tool/src/backup.cpp" "CMakeFiles/AdvancedBackupToolGUI.dir/src/backup.cpp.o" "gcc" "CMakeFiles/AdvancedBackupToolGUI.dir/src/backup.cpp.o.d"
+  "/home/ashish/os_multithread_backup_tool/src/compress.cpp" "CMakeFiles/AdvancedBackupToolGUI.dir/src/compress.cpp.o" "gcc" "CMakeFiles/AdvancedBackupToolGUI.dir/src/compress.cpp.o.d"
+  "/home/ashish/os_multithread_backup_tool/src/encrypt.cpp" "CMakeFiles/AdvancedBackupToolGUI.dir/src/encrypt.cpp.o" "gcc" "CMakeFiles/AdvancedBackupToolGUI.dir/src/encrypt.cpp.o.d"
+  "/home/ashish/os_multithread_backup_tool/src/gui.cpp" "CMakeFiles/AdvancedBackupToolGUI.dir/src/gui.cpp.o" "gcc" "CMakeFiles/AdvancedBackupToolGUI.dir/src/gui.cpp.o.d"
+  "/home/ashish/os_multithread_backup_tool/src/logger.cpp" "CMakeFiles/AdvancedBackupToolGUI.dir/src/logger.cpp.o" "gcc" "CMakeFiles/AdvancedBackupToolGUI.dir/src/logger.cpp.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

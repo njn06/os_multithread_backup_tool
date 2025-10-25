@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/include
+CXX_INCLUDES = -I/home/ashish/os_multithread_backup_tool/include
 
-CXX_FLAGS = -O3 -DNDEBUG -std=gnu++17
+CXX_FLAGS = -std=gnu++17
 

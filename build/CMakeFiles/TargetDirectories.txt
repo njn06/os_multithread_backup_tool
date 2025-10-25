@@ -1,4 +1,4 @@
-/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build/CMakeFiles/AdvancedBackupTool.dir
-/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build/CMakeFiles/AdvancedBackupToolGUI.dir
-/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build/CMakeFiles/edit_cache.dir
-/mnt/c/Users/ganes/AdvancedBackupTool/os_multithread_backup_tool/build/CMakeFiles/rebuild_cache.dir
+/home/ashish/os_multithread_backup_tool/build/CMakeFiles/AdvancedBackupTool.dir
+/home/ashish/os_multithread_backup_tool/build/CMakeFiles/AdvancedBackupToolGUI.dir
+/home/ashish/os_multithread_backup_tool/build/CMakeFiles/edit_cache.dir
+/home/ashish/os_multithread_backup_tool/build/CMakeFiles/rebuild_cache.dir
